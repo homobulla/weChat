@@ -1,0 +1,25 @@
+{
+    "name": "weChat",
+    "version": "1.0.0",
+    "description": "搭建一个在线聊天室：",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/homobulla/weChat.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/homobulla/weChat/issues"
+    },
+    "homepage": "https://github.com/homobulla/weChat#readme",
+    "dependencies": {
+        "koa": "^2.5.3",
+        "socket.io": "^2.1.1"
+    }
+}
