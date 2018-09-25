@@ -4,3 +4,5 @@
 
 -   koa + socket
 -   vue + scss
+
+后端热更新：nodemon
