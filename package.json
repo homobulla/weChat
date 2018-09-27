@@ -1,5 +1,5 @@
 {
-    "name": "weChat",
+    "name": "wechat",
     "version": "1.0.0",
     "description": "搭建一个在线聊天室：",
     "main": "index.js",
@@ -20,6 +20,11 @@
     "homepage": "https://github.com/homobulla/weChat#readme",
     "dependencies": {
         "koa": "^2.5.3",
+        "koa-router": "^7.4.0",
+        "koa-socket-2": "^1.0.17",
+        "koa-static": "^5.0.0",
+        "log4js": "^3.0.5",
+        "muse-ui": "^3.0.1",
         "socket.io": "^2.1.1"
     }
 }
